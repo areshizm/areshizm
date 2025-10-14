@@ -1,10 +1,6 @@
 # Hi 👋🏻 , I'm Areshizm
 [Founder of Project GutsV](https://github.com/gutsv-project)
 
-![Profil View Count](https://komarev.com/ghpvc/?username=areshizm&color=000000)&nbsp;
-[![GitHub Areshizm](https://img.shields.io/github/followers/areshizm?label=follow&style=social)](https://github.com/areshizm)&nbsp;
-<a href="https://instagram.com/acerhizm"><img src="https://img.shields.io/badge/@acerhizm-000000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
 ```js
 class Ares {
     constructor(options) {
@@ -21,6 +17,10 @@ class Ares {
 
 module.exports = Ares
 ```
+![Profil View Count](https://komarev.com/ghpvc/?username=areshizm&color=000000)&nbsp;
+[![GitHub Areshizm](https://img.shields.io/github/followers/areshizm?label=follow&style=social)](https://github.com/areshizm)&nbsp;
+<a href="https://instagram.com/areshizm"><img src="https://img.shields.io/badge/@areshizm-000000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 ## Hangi Dilleri  Biliorum:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
